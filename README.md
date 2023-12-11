@@ -8,7 +8,7 @@ We create an arcade game for quiz entusiasts
 
 ## Scheme
 
-[Link to fitzing file](/scheme-fritzing.fzz)
+- [Link to fitzing file](/scheme-fritzing.fzz)
 ![Scheme](/images/scheme-image.png)
 
 
