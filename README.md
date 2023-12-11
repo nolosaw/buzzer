@@ -6,7 +6,8 @@ We create an arcade game for quiz entusiasts
 
 ## Scheme
 
-
+![scheme-image](/images/scheme-image.png)
+[link to fitzing file](/scheme-fritzing.fzz)
 
 ## Shopping list
 
