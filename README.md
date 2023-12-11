@@ -23,7 +23,7 @@ We create an arcade game for quiz entusiasts
 
 ## On Distrelec
 
-- [Arduino] (https://www.distrelec.ch/fr/arduino-uno-rev3-smd-arduino-a000073/p/30101956?trackQuery=arduino%20uno&pos=1&origPos=1&origPageSize=50&track=true&sid=4f1b53de18592aba8310043362ab6452e32ac539&itemList=search)
+- [Arduino](https://www.distrelec.ch/fr/arduino-uno-rev3-smd-arduino-a000073/p/30101956?trackQuery=arduino%20uno&pos=1&origPos=1&origPageSize=50&track=true&sid=4f1b53de18592aba8310043362ab6452e32ac539&itemList=search)
 
 
 
